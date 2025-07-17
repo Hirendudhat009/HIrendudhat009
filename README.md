@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-[![Linkedln](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/hiren-dudhat-b1343918b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hiren_dudhat_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HirenDudhat5) 
+[![Linkedln](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/hiren-dudhat-b1343918b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HirenDudhat5) 
 
 ## 🏆 Achievements:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hirendudhat009" alt="Hirendudhat009" /></a> </p>
